@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 18090,
+  "expoServerNgrokUrl": "https://rh-5i9.jackharding.mse-debug.exp.direct",
+  "packagerNgrokUrl": "https://packager.rh-5i9.jackharding.mse-debug.exp.direct",
+  "ngrokPid": 18102
+}
